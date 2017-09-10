@@ -6,6 +6,15 @@ body	{
 	line-height:150%;
 }
 
+.img-circle {
+    border-radius: 50%;
+		width: 10em;
+		box-shadow: 0 0 4px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, .8);
+}
+
+
 a:link, a:visited	{
 	text-decoration: none;
 	color:#000
@@ -107,6 +116,10 @@ a:hover	{
 		padding: 10px;
 	}
 
+	.img-circle {
+			width: 0%;
+	}
+
 	#logo, #nav, #content-left,	#footer {
 		display: block;
 		width: 100%;
@@ -136,6 +149,10 @@ a:hover	{
 		width: auto;
 		margin: 0 auto;
 		padding: 10px;
+	}
+
+	img-circle {
+			width: 0%;
 	}
 
 	#logo, #nav, #content-left,	#footer {
