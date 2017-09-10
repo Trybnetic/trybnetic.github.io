@@ -9,7 +9,7 @@ permalink: /impressum/
 
 Angaben gemäß § 5 TMG:
 
-<img src="{{ site.url }}/assets/images/contact.png" alt="Contact" style="width:23em;" />
+<img src="{{ site.url }}/assets/images/impressum.png" alt="Contact" style="width:23em;" />
 
 
 ### Disclaimer – rechtliche Hinweise / *Terms of Service*
