@@ -1,7 +1,7 @@
 # Minimalist
 
 [![Build Status](https://travis-ci.org/Trybnetic/trybnetic.github.io.svg?branch=master)](https://travis-ci.org/Trybnetic/trybnetic.github.io)
-[![License](https://img.shields.io/github/license/Trybnetic/minimalist.svg)](https://github.com/Trybnetic/minimalist/blob/master/LICENSE.txt)  
+[![License](https://img.shields.io/github/license/Trybnetic/trybnetic.github.io.svg)](https://github.com/Trybnetic/trybnetic.github.io/blob/master/LICENSE.txt)  
 
 Minimalist is a simple and light weighted [jekyll](http://jekyllrb.com/) theme. It focuses on a minimalistic design but still providing all functionality for a personal blog.
 
