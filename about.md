@@ -26,6 +26,3 @@ In my spare time I am a passionate hiker. I love the nature and the mountains
 and spend a lot of time exploring them. Especially, I fall for the northern
 countries of Scandinavia. Besides hiking I like to ride bicycle, play badminton
 and go boulder.
-
-From 2017 on, I am studying Statistics at the
-[university of Leuven](http://www.kuleuven.be/kuleuven/) in Belgium.
