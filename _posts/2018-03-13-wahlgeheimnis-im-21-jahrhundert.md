@@ -35,7 +35,7 @@ Geräten hat sich dies jedoch massiv geändert. In den Wahllokalen wird nur
 dürftig kontrolliert, ob jemand ein Smartphone oder eine Digitalkamera mit in
 die Kabine nimmt. Der Unterschied mag klein sein und irgendwie kann man sich ja
 auch an Selfies aus der Wahlkabine erfreuen, wenn diese das Politikbewusstsein
-junger Erwachsener widerspiegeln, doch es schafft auch in enormen Masse die
+junger Erwachsener widerspiegeln, doch es schafft auch in enormen Maße die
 Möglichkeit des Missbrauchs.
 
 Abhängigkeitsverhältnisse können nun wieder ausgenutzt werden. "Wähle XYZ
