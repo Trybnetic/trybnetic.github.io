@@ -12,6 +12,8 @@ Jahres zählt, so gibt Sie mir trotzdem den Anstoß einen Blogbeitrag fertig zu
 schreiben, mit dem ich eigentlich schon zur Bundestagswahl letztes Jahr begonnen
 habe.
 
+<!--more-->
+
 Es soll dabei um nichts geringeres als das Wahlgeheimnis gehen. Also um das
 Prinzip, welches unseren freien Wahlen zu Grunde liegt und damit unsere
 Demokratie erst Möglich macht. Dabei garantiert es nichts anderes als die
