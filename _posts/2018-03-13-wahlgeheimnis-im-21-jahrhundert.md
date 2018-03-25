@@ -2,7 +2,7 @@
 layout: post
 title:  "Das Wahlgeheimnis im 21. Jahrhundert"
 date:   2018-03-13 20:43:45 +0200
-categories: democracy german
+categories:
 ---
 
 Letzte Woche stand im Wahlkreis meiner Eltern mal wieder eine Wahl an, welche am
