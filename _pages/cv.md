@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,50 +10,49 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+---------
+
+* M.Sc. in Cognitive Science, University of Tübingen, 2020
+* Erasmus in Theoretical Linguistics, University of Tromsø, 2018
+* B.Sc. in Cognitive Science, University of Tübingen, 2017
+
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+---------------
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016 - 2019: Research Assistant / Software Developer (Part-time)
+  * Department of Linguistics, University of Tübingen
+  * Duties included: Developing and maintenance of [pyndl](https://github.com/quantling/pyndl/),
+    a python implementation of the naive discriminative learning algorithm
+  * Supervisor: Professor Dr. Harald Baayen
+
+* 2014 - 2018: Teaching Assistant in Computer Science and Cognitive Science (Part-time)
+  * Department of Computer Science and Psychology, University of Tübingen
+  * Duties included: Mentoring students in several lectures
+  * Lectures and Supervisors:
+    * Computer Science 1, held by Professor Dr. Wolfgang Küchlin
+    * Computer Science 2, held by Professor Dr. Torsten Grust
+    * Experimental Cognitive Science, held by Professor Dr. Bettina Rolke and colleagues
+    * Computer Science 1, held by Professor Dr. Klaus Ostermann
+    * Mathematical Statistics, held by Professor Dr. Rolf Ulrich
+    * Computational Statistics, held by Martin Loosert, Msc
+
+
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming  (Python, R, C++)
+* Linux
+* Languages (German, English, Norwegian)
+
+
+Theses
+------
+
+Weitz, M. (2020) *Audiovisual processing in a spatial detection task* (Master's Thesis).   
+Weitz, M. (2017) *Self-organisation in a model of auditory speech processing* (Bachelor's Thesis).
+
+Software
+--------
+
+Sering, K., Weitz, M., Künstle, D. E., & Schneider, L. (2018). Pyndl: Naive discriminative learning in python. doi: [10.5281/zenodo.597964](http://doi.org/10.5281/zenodo.597964)

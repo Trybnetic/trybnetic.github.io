@@ -235,3 +235,14 @@
     }
   }
 }
+
+.book-challenge {
+  padding: .5em;
+  display: none;
+  margin-top: 2em;
+  text-align: center;
+  border: 1px solid #f2f3f3;
+  @include breakpoint($large) {
+    display: block;
+  }
+}
