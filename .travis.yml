@@ -7,7 +7,7 @@ rvm:
 script:
   - set -e # halt script on error
   - bundle exec jekyll build
-  - bundle exec htmlproofer --http-status-ignore "999" --url-ignore "/https://twitter.com/intent/tweet?text=*/" ./_site
+  - bundle exec htmlproofer --http-status-ignore "999" --url-ignore "/https://twitter.com/intent/" ./_site
 
 env:
   global:
