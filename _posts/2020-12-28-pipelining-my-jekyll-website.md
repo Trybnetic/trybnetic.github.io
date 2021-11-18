@@ -13,33 +13,33 @@ generator [jekyll](https://jekyllrb.com/) to manage and generate my
 website. Jekyll is a pretty handy tool create websites even though I
 have to confess that particularly in the beginning I had some problems
 with getting started and get to know the mechanisms behind it. But even
-after gaining some knowledge on what is going on, jekyll itself lacks
-some important mechanisms of maintainence.
+after gaining some knowledge on what is going on, Jekyll itself lacks
+some important mechanisms of maintenance.
 
-In a dynamic web urls often change, but the linking in the own website does
+In a dynamic web URLs often change, but the linking in the own website does
 not. As I personally don't think that waiting for user requests on dead links
-is an adequat strategy now anymore, other ways of adapting and checking my
+is an adequate strategy now anymore, other ways of adapting and checking my
 website became more appealing to me. This guide, therefore, aims to describe
 my way of solving this issue, but does not claim that it is the best.
 However, to me it seems practical and easy to deploy as I knew all the
 mechanisms already from [earlier projects](/projects/).
 
 So for me the choice fall to [travis CI](https://travis-ci.com). Travis is a
-Continous Integration system that enables automatic building of code on a
-cloud. I first got in touch with it while writing [pyndl](https://github.com/quantling/pyndl/). In this project we used travis CI to automatically build
+Continuous Integration system that enables automatic building of code on a
+cloud. I first got in touch with it while writing [pyndl](https://github.com/quantling/pyndl/). In this project we used Travis CI to automatically build
 the package and run the tests we wrote for each commit we made. Running the
 code we wrote on our PCs on a cloud enabled us to test the code on a variety
 of different operating systems and python versions.
 
 Testing for different OS and versions did obviously not apply for this
-project. But in general testing wether the project builds and especially
+project. But in general testing whether the project builds and especially
 also to check whether it builds over time seemed a good choice. Moreover,
 the produced html output can easily be checked by a htmlproofer for broken
 links or other inconsistencies. Using [html-proofer](https://github.com/gjtorikian/html-proofer) was already something that I incorporated in my
 workflow locally before combing it with travis, but running it on a regular
 basis seems even more appealing.
 
-The first step to get a continous testing of my website to run was to
+The first step to get a continuous testing of my website to run was to
 register myself and the repository on [travis-ci.com](https://travis-ci.com).
 The registration process is pretty straight forward and you Github Account
 can be used as an identity provider which is pretty handy. After registering
@@ -57,7 +57,7 @@ rvm:
   - 2.7.0
 ```
 
-For me, I decided to choose linux as my operating system with Ubuntu Xenial Xerus as my distribution. To spare time, only a small subset of programs is
+For me, I decided to choose Linux as my operating system with Ubuntu Xenial Xerus as my distribution. To spare time, only a small subset of programs is
 included in the build which requires to specify the programming language and
 version by yourself.
 
@@ -111,12 +111,12 @@ env:
 
 However, this code is now just triggered on commit. This obviously has
 advantages such as saving computation time and also often does not make
-a big difference as once the code is builded it remains on your page until
+a big difference as once the code is built it remains on your page until
 a new commit is triggered and is not automatically rebuild. This, however,
 is a great design choice for testing whether you code builds, but
 particularly with websites you do not solely face problems with your
 website. At last as long as you have linked other websites as well, other
-administrators might change there urls spontanously and without notice
+administrators might change there urls spontaneously and without notice
 breaking your links. To solve this problem, I use a cron job on travis to
 automatically trigger a build once a day.
 
