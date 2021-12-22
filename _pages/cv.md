@@ -20,6 +20,11 @@ Education
 Work experience
 ---------------
 
+* since 2020: PhD Candidate (Full-time)
+  * Department of Computer Science, University of Tromsø
+  * Developing next generation accelerometry methods using machine learning
+  * Supervisor: Professor Dr. Alexander Horsch
+
 * 2016 - 2019: Research Assistant / Software Developer (Part-time)
   * Department of Linguistics, University of Tübingen
   * Duties included: Developing and maintenance of [pyndl](https://github.com/quantling/pyndl/),
