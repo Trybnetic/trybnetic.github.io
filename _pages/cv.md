@@ -43,21 +43,24 @@ Work experience
     * Computational Statistics, held by Martin Loosert, Msc
 
 
-Skills
-------
 
-* Programming  (Python, R, C++)
-* Linux
-* Languages (German, English, Norwegian)
+Publications
+------------
+
+**Weitz, M.**, Morseth, B., Hopstock, L. A., & Horsch, A. (2024). Influence of Accelerometer Calibration on the Estimation of Objectively Measured Physical Activity: The Tromsø Study. *Journal for the Measurement of Physical Behaviour, 7*(1). [https://doi.org/10.1123/jmpb.2023-0019](https://doi.org/10.1123/jmpb.2023-0019)
+
+Sering, K., **Weitz, M.**, Shafaei-Bajestan, E., & Künstle, D. E. (2022). Pyndl: Naive discriminative learning in python. *Journal of Open Source Software, 7*(80), 4515. [https://doi.org/10.21105/joss.04515](https://doi.org/10.21105/joss.04515)
+
+
+Software
+--------
+
+Sering, K., **Weitz, M.**, Künstle, D. E., & Schneider, L. (2018). Pyndl: Naive discriminative learning in python. doi: [10.5281/zenodo.597964](http://doi.org/10[[pdf](/files/BScThesisWeitz.pdf), [GitHub](https://github.com/Trybnetic/bsc-thesis)].5281/zenodo.597964)
 
 
 Theses
 ------
 
-Weitz, M. (2020) *Audiovisual processing in a spatial detection task* (Master's Thesis).   
-Weitz, M. (2017) *Self-organisation in a model of auditory speech processing* (Bachelor's Thesis).
+Weitz, M. (2020) *Audiovisual processing in a spatial detection task* (Master's Thesis, [pdf](/files/MScThesisWeitz.pdf), [GitHub](https://github.com/Trybnetic/msc-thesis)).    
+Weitz, M. (2017) *Self-organisation in a model of auditory speech processing* (Bachelor's Thesis, [pdf](/files/BScThesisWeitz.pdf), [GitHub](https://github.com/Trybnetic/bsc-thesis)).
 
-Software
---------
-
-Sering, K., Weitz, M., Künstle, D. E., & Schneider, L. (2018). Pyndl: Naive discriminative learning in python. doi: [10.5281/zenodo.597964](http://doi.org/10.5281/zenodo.597964)
