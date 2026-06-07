@@ -67,7 +67,7 @@ Sering, K., **Weitz, M.**, Künstle, D. E., & Schneider, L. (2018). Pyndl: Naive
 Theses
 ------
 
-Weitz, M. (2025). *Device-based measurement of lifestyle-related variables from the hip* [url](https://hdl.handle.net/10037/37189)
+Weitz, M. (2025). *Device-based measurement of lifestyle-related variables from the hip* [url](https://hdl.handle.net/10037/37189).    
 Weitz, M. (2020) *Audiovisual processing in a spatial detection task* (Master's Thesis, [pdf](/files/MScThesisWeitz.pdf), [GitHub](https://github.com/Trybnetic/msc-thesis)).    
 Weitz, M. (2017) *Self-organisation in a model of auditory speech processing* (Bachelor's Thesis, [pdf](/files/BScThesisWeitz.pdf), [GitHub](https://github.com/Trybnetic/bsc-thesis)).
 
