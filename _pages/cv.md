@@ -47,11 +47,11 @@ Work experience
 Publications
 ------------
 
-**Weitz, M.**, Syed, S., & Horsch, A. (2025). PAAT: Physical Activity Analysis Toolbox for the analysis of hip-worn raw accelerometer data in Python. *Journal of Open Source Software, 10*(111), 8136. https://doi.org/10.21105/joss.08136
+**Weitz, M.**, Syed, S., & Horsch, A. (2025). PAAT: Physical Activity Analysis Toolbox for the analysis of hip-worn raw accelerometer data in Python. *Journal of Open Source Software, 10*(111), 8136. [https://doi.org/10.21105/joss.08136](https://doi.org/10.21105/joss.08136)
 
-Hammer, T. M., Johansson, J., Emaus, N., Furberg, A.-S., Gracia-Marco, L., Morseth, B., Nilsen, O. A., Ubago-Guisado, E., Vlachopoulos, D., **Weitz, M.**, Evensen, E., & Christoffersen, T. (2025). Changes in accelerometer-measured physical activity and self-reported leisure time physical activity from adolescence to young adulthood: A longitudinal cohort study from the Fit Futures Study. *International Journal of Behavioral Nutrition and Physical Activity, 22*(1), 99. https://doi.org/10.1186/s12966-025-01799-4
+Hammer, T. M., Johansson, J., Emaus, N., Furberg, A.-S., Gracia-Marco, L., Morseth, B., Nilsen, O. A., Ubago-Guisado, E., Vlachopoulos, D., **Weitz, M.**, Evensen, E., & Christoffersen, T. (2025). Changes in accelerometer-measured physical activity and self-reported leisure time physical activity from adolescence to young adulthood: A longitudinal cohort study from the Fit Futures Study. *International Journal of Behavioral Nutrition and Physical Activity, 22*(1), 99. [https://doi.org/10.1186/s12966-025-01799-4](https://doi.org/10.1186/s12966-025-01799-4)
 
-**Weitz M.**, Syed S., Hopstock L. A., Morseth B., Henriksen A., & Horsch, A. (2025) Automatic time in bed detection from hip-worn accelerometers for large epidemiological studies: The Tromsø Study. *PLOS ONE 20*(5): e0321558. https://doi.org/10.1371/journal.pone.0321558 
+**Weitz M.**, Syed S., Hopstock L. A., Morseth B., Henriksen A., & Horsch, A. (2025) Automatic time in bed detection from hip-worn accelerometers for large epidemiological studies: The Tromsø Study. *PLOS ONE 20*(5): e0321558. [https://doi.org/10.1371/journal.pone.0321558](https://doi.org/10.1371/journal.pone.0321558)
 
 **Weitz, M.**, Morseth, B., Hopstock, L. A., & Horsch, A. (2024). Influence of Accelerometer Calibration on the Estimation of Objectively Measured Physical Activity: The Tromsø Study. *Journal for the Measurement of Physical Behaviour, 7*(1). [https://doi.org/10.1123/jmpb.2023-0019](https://doi.org/10.1123/jmpb.2023-0019)
 
