@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marc Weitz"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Health Informatics"
-  location         : "Tromsø, Norway"
+  bio              : "PhD in Computer Science, Data Enthusiast and Python Developer"
+  location         : 
   employer         :
   pubmed           :
   googlescholar    :
@@ -99,7 +99,7 @@ author:
   github           : "trybnetic"
   google_plus      :
   keybase          :
-  instagram        : "marc.weitz"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "marcweitz"
